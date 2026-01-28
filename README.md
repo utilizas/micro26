@@ -92,7 +92,7 @@ Esta propuesta y el programa formativo asociado —como elemento de transferenci
 
 ¿Tu institución está interesada en implementar este programa? [Completa este formulario](#) para recibir más información.
 
-## 📋 Licencia
+## 📋 Licencia CC BY-NC-SA 4.0:
 
 Este trabajo está licenciado bajo [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -119,3 +119,35 @@ Para consultas sobre implementación institucional: [mm3@ugr.es]
 ---
 
 **Última actualización**: Enero 2026 | **Versión**: 1.0
+
+---
+
+::: {.callout-note appearance="minimal"}
+## Información del documento
+
+**Título:** Aplicaciones de IA Generativa y Agencial en Humanidades y Ciencias Sociales  
+**Versión:** 1.0  
+**Fecha:** Enero 2026  
+**Autor:** Miguel Moreno (Universidad de Granada)  
+**Licencia:** CC BY-NC-SA 4.0
+
+### Contexto del proyecto
+
+Esta propuesta curricular se desarrolla en el marco del **proyecto de innovación docente Innova26** (PIE 25-XX, Universidad de Granada), que investiga las implicaciones pedagógicas, epistemológicas y éticas de la inteligencia artificial generativa en contextos universitarios de Humanidades y Ciencias Sociales.
+
+El proyecto Innova26 aborda tres líneas de investigación complementarias:
+
+1. **Epistemológica**: Análisis del impacto de la IA generativa en los procesos de construcción del conocimiento disciplinar
+2. **Pedagógica**: Diseño y evaluación de estrategias didácticas que integren IA de forma crítica y fundamentada
+3. **Ética y regulatoria**: Desarrollo de marcos normativos institucionales para el uso responsable de IA en educación superior
+
+Los resultados preliminares del proyecto Innova26 evidenciaron la necesidad de una formación estructurada y específica para estudiantes de Humanidades y Ciencias Sociales, motivando el desarrollo de esta propuesta de microcredencial universitaria.
+
+### Adaptabilidad institucional
+
+Este documento está diseñado para ser adaptado a diferentes universidades españolas. Los precios, perfiles docentes y procedimientos administrativos deberán ajustarse a la normativa específica de cada institución. Para información sobre implementación en su universidad, consulte el repositorio del proyecto en [github.com/usuario/micro26](https://github.com/usuario/micro26).
+
+### Expresión de interés
+
+Las instituciones interesadas en implementar este programa pueden manifestar su interés a través del formulario disponible en la versión online del documento o contactando directamente con el equipo del proyecto.
+:::
