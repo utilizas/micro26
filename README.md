@@ -96,7 +96,7 @@ Este documento está diseñado para ser adaptado a diferentes universidades espa
 
 ## 📬 Expresión de interés
 
-¿Tu institución está interesada en implementar este programa? [Completa este formulario]([https://docs.google.com/forms/d/e/1FAIpQLSezUyUDsYkgzhecBGNoQvnYMcY9aAjzSE_k8TqU3-ju1h61DA/viewform?usp=sharing&ouid=107955784411914151193](https://docs.google.com/forms/d/e/1FAIpQLSezUyUDsYkgzhecBGNoQvnYMcY9aAjzSE_k8TqU3-ju1h61DA/viewform?usp=sharing&ouid=107955784411914151193) para recibir más información.
+¿Tu institución está interesada en implementar este programa? [Completa este formulario](https://docs.google.com/forms/d/e/1FAIpQLSezUyUDsYkgzhecBGNoQvnYMcY9aAjzSE_k8TqU3-ju1h61DA/viewform?usp=sharing&ouid=107955784411914151193) para recibir más información.
 
 ## 📋 Licencia CC BY-NC-SA 4.0:
 
