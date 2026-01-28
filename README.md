@@ -88,6 +88,12 @@ Universidad de Granada
 
 Esta propuesta y el programa formativo asociado —como elemento de transferencia— tiene su origen en un [trabajo más extenso](https://innov26.vercel.app/) centrado en los marcos conceptuales y la evidencia comparativa para la adopción reflexiva de tecnología emergente e inteligencia artificial generativa en educación superior. Constituye parte del material de referencia para el módulo "Innovación Docente e Investigación Educativa en Ciencias Sociales - SG1/56/1/57" del Máster del Profesorado de la Universidad de Granada. Combina análisis crítico de enfoques pedagógicos innovadores con evaluación sistemática de herramientas, plataformas y servicios educativos. Su [última versión](https://github.com/utilizas/innov26) (v4. 2026) incorpora tablas comparativas de servicios comerciales de IA y gráficas de metaanálisis recientes sobre efectividad de IA generativa en aprendizaje y autonomía metacognitiva. Se estructuran los contenidos en torno a tres marcos conceptuales consolidados: UTAUT2 para análisis de adopción tecnológica, DigCompEdu/MRCDD para competencia digital docente, y ABCE (afectivo, conductual, cognitivo y ético) para alfabetización en IA. Entre otros objetivos, este material aporta elementos y recomendaciones para adquirir una perspectiva crítica e informada sobre las implicaciones pedagógicas, epistémicas y éticas de la IA generativa en contextos universitarios de Humanidades y Ciencias Sociales.
 
+### Adaptabilidad institucional
+
+Este documento está diseñado para ser adaptado a diferentes universidades españolas. Los precios, perfiles docentes y procedimientos administrativos deberán ajustarse a la normativa específica de cada institución. Para información sobre implementación en su universidad, consulte el repositorio del proyecto en [github.com/usuario/micro26](https://github.com/usuario/micro26).
+
+### Expresión de interés
+
 ## 📬 Expresión de interés
 
 ¿Tu institución está interesada en implementar este programa? [Completa este formulario](#) para recibir más información.
@@ -121,33 +127,3 @@ Para consultas sobre implementación institucional: [mm3@ugr.es]
 **Última actualización**: Enero 2026 | **Versión**: 1.0
 
 ---
-
-::: {.callout-note appearance="minimal"}
-## Información del documento
-
-**Título:** Aplicaciones de IA Generativa y Agencial en Humanidades y Ciencias Sociales  
-**Versión:** 1.0  
-**Fecha:** Enero 2026  
-**Autor:** Miguel Moreno (Universidad de Granada)  
-**Licencia:** CC BY-NC-SA 4.0
-
-### Contexto del proyecto
-
-Esta propuesta curricular se desarrolla en el marco del **proyecto de innovación docente Innova26** (PIE 25-XX, Universidad de Granada), que investiga las implicaciones pedagógicas, epistemológicas y éticas de la inteligencia artificial generativa en contextos universitarios de Humanidades y Ciencias Sociales.
-
-El proyecto Innova26 aborda tres líneas de investigación complementarias:
-
-1. **Epistemológica**: Análisis del impacto de la IA generativa en los procesos de construcción del conocimiento disciplinar
-2. **Pedagógica**: Diseño y evaluación de estrategias didácticas que integren IA de forma crítica y fundamentada
-3. **Ética y regulatoria**: Desarrollo de marcos normativos institucionales para el uso responsable de IA en educación superior
-
-Los resultados preliminares del proyecto Innova26 evidenciaron la necesidad de una formación estructurada y específica para estudiantes de Humanidades y Ciencias Sociales, motivando el desarrollo de esta propuesta de microcredencial universitaria.
-
-### Adaptabilidad institucional
-
-Este documento está diseñado para ser adaptado a diferentes universidades españolas. Los precios, perfiles docentes y procedimientos administrativos deberán ajustarse a la normativa específica de cada institución. Para información sobre implementación en su universidad, consulte el repositorio del proyecto en [github.com/usuario/micro26](https://github.com/usuario/micro26).
-
-### Expresión de interés
-
-Las instituciones interesadas en implementar este programa pueden manifestar su interés a través del formulario disponible en la versión online del documento o contactando directamente con el equipo del proyecto.
-:::
