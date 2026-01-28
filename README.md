@@ -9,7 +9,7 @@
 
 ## 📖 Descripción
 
-Propuesta curricular para un programa formativo universitario de **6 ECTS (150 horas)** dirigido a estudiantes de grados en Humanidades y Ciencias Sociales y profesionales que deseen actualizar sus competencias en IA generativa y agencial. La base analítica y los elementos de evidencia que justifican el interés de la propuesta pueden consultarse en la monografía asociada [Innovación educativa y tecnologías de soporte - v4, 2026](https://innov26.vercel.app/), donde se estudia el impacto de la IA generativa en los procesos de enseñanza-aprendizaje en educación superior y se explora el potencial de los agentes artificales para la investigación científica.
+Propuesta curricular para un programa formativo universitario de **6 ECTS (150 horas)** dirigido a estudiantes de grados en Humanidades y Ciencias Sociales y profesionales que deseen actualizar sus competencias en IA generativa y agencial. La base analítica y los elementos de evidencia que justifican el interés de la propuesta pueden consultarse en la monografía asociada ([Innovación educativa y tecnologías de soporte - v4, 2026](https://innov26.vercel.app/)), donde se estudia el impacto de la IA generativa en los procesos de enseñanza-aprendizaje en educación superior y se explora el potencial de los agentes artificales para la investigación científica.
 
 ### 🎯 Características principales
 
