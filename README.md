@@ -1,7 +1,7 @@
 ## micro26: Propuesta curricular y microcredencial apilable 🎓🤖
 
 # Aplicaciones de IA Generativa y Agencial en Humanidades y Ciencias Sociales
-## Formación especializada para el uso responsable y eficaz de modelos y sistemas de de inteligencia artificial
+## Formación especializada para el uso ético y productivo de modelos y sistemas de de inteligencia artificial
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Quarto](https://img.shields.io/badge/Made%20with-Quarto-75AADB.svg)](https://quarto.org/)
@@ -9,9 +9,7 @@
 
 ## 📖 Descripción
 
-Propuesta curricular para un programa formativo universitario de **6 ECTS (150 horas)** dirigido a estudiantes de grados en Humanidades y Ciencias Sociales y profesionales que deseen actualizar sus competencias en IA generativa y agencial.
-
-Este proyecto nace del **proyecto innovaducativa Innova26 (UGR)**, que investiga el impacto de la IA generativa en los procesos de enseñanza-aprendizaje en educación superior.
+Propuesta curricular para un programa formativo universitario de **6 ECTS (150 horas)** dirigido a estudiantes de grados en Humanidades y Ciencias Sociales y profesionales que deseen actualizar sus competencias en IA generativa y agencial. La base analítica y los elementos de evidencia que justifican el interés de la propuesta pueden consultarse en la monografía asociada [Innovación educativa y tecnologías de soporte - v4, 2026](https://innov26.vercel.app/), donde se estudia el impacto de la IA generativa en los procesos de enseñanza-aprendizaje en educación superior y se explora el potencial de los agentes artificales para la investigación científica.
 
 ### 🎯 Características principales
 
@@ -83,12 +81,12 @@ quarto render propuesta_microcredencial_mejorada.qmd
 
 ## 👥 Autoría
 
-**Miguel Moreno** (ORCID: 0000-0000-0000-0000)  
+**Miguel Moreno** (ORCID: 0000-0002-0746-9587)  
 Universidad de Granada
 
 ## 🏛️ Contexto institucional
 
-Esta propuesta se desarrolla en el marco del **proyecto Innova26** (PIE 25-XX, Universidad de Granada), un proyecto de innovación docente que investiga las implicaciones pedagógicas, epistemológicas y éticas de la IA generativa en contextos universitarios de Humanidades y Ciencias Sociales.
+Esta propuesta y el programa formativo asociado —como elemento de transferencia— tiene su origen en un [trabajo más extenso](https://innov26.vercel.app/) centrado en los marcos conceptuales y la evidencia comparativa para la adopción reflexiva de tecnología emergente e inteligencia artificial generativa en educación superior. Constituye parte del material de referencia para el módulo "Innovación Docente e Investigación Educativa en Ciencias Sociales - SG1/56/1/57" del Máster del Profesorado de la Universidad de Granada. Combina análisis crítico de enfoques pedagógicos innovadores con evaluación sistemática de herramientas, plataformas y servicios educativos. Su [última versión](https://github.com/utilizas/innov26) (v4. 2026) incorpora tablas comparativas de servicios comerciales de IA y gráficas de metaanálisis recientes sobre efectividad de IA generativa en aprendizaje y autonomía metacognitiva. Se estructuran los contenidos en torno a tres marcos conceptuales consolidados: UTAUT2 para análisis de adopción tecnológica, DigCompEdu/MRCDD para competencia digital docente, y ABCE (afectivo, conductual, cognitivo y ético) para alfabetización en IA. Entre otros objetivos, este material aporta elementos y recomendaciones para adquirir una perspectiva crítica e informada sobre las implicaciones pedagógicas, epistémicas y éticas de la IA generativa en contextos universitarios de Humanidades y Ciencias Sociales.
 
 ## 📬 Expresión de interés
 
@@ -116,7 +114,7 @@ Este trabajo está licenciado bajo [Creative Commons Attribution-NonCommercial-S
 
 ## 📧 Contacto
 
-Para consultas sobre implementación institucional: [email]
+Para consultas sobre implementación institucional: [mm3@ugr.es]
 
 ---
 
