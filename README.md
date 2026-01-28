@@ -1,4 +1,4 @@
-## micro26: Propuesta curricular y microcredencial apilable 🎓🤖
+### micro26: Propuesta curricular y microcredencial apilable 🎓🤖
 
 # Aplicaciones de IA Generativa y Agencial en Humanidades y Ciencias Sociales
 ## Formación especializada para el uso ético y productivo de modelos y sistemas de de inteligencia artificial
